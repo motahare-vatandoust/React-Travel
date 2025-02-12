@@ -18,3 +18,5 @@ export default function AccordionItem({ id, title, children, className }) {
     </li>
   );
 }
+
+
